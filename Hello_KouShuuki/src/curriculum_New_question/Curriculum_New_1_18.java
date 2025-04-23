@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Curriculum_New_1_18 {
 	
-	//Q1 Stringとintを引数にとってメッセージ出力。
+    //Q1 Stringとintを引数にとってメッセージ出力。
     public static void printMessage(String message, int version) {
         System.out.println(message + " " + version);
     }
