@@ -64,7 +64,7 @@ public class Curriculum_New_1_18 {
 
 	public static void main(String[] args) {
 		
-		//Q1
+        //Q1
         printMessage("Hello JavaSE", 11);
         System.out.println();
 
