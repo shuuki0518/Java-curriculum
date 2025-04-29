@@ -5,7 +5,7 @@ import java.time.format.DateTimeFormatter;
 
 public class sushiDousa {
 
-	private String aisatsu;
+    private String aisatsu;
     private String tasteComment;
     private String categoryComment;
     private String currentDateTime;
