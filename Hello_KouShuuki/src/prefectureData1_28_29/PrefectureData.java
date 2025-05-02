@@ -2,7 +2,7 @@ package prefectureData1_28_29;
 
 //都道府県データを表すクラス
 public class PrefectureData {
-	private String name;      // 都道府県名
+    private String name;      // 都道府県名
     private String capital;   // 県庁所在地
     private double area;      // 面積（km2）
 
